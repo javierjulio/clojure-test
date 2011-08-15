@@ -1,0 +1,1 @@
+A collection of simple Clojure apps to learn the language. I'm using Leiningen to build, compile and run my apps locally. Each project (folders) will have its own README.md file detailing how to run the app assuming Leiningen is used.
